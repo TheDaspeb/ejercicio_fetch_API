@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio_fetch_api",
+  "version": "1.0.0",
+  "description": "Realización de api fetch",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDaspeb/ejercicio_fetch_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheDaspeb/ejercicio_fetch_API/issues"
+  },
+  "homepage": "https://github.com/TheDaspeb/ejercicio_fetch_API#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
